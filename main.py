@@ -188,11 +188,6 @@ def legal_move_checker():
                         print("That piece cant move like that (3)")
                         legal_move = True
         
-        
-
-
-    
-
 
     
 
