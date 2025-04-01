@@ -1,6 +1,9 @@
-# testing
-print("Turtle")
+#Chess pieces variables 
 
-# hello
+#Menu
 
-# hello
+#Board
+
+#Legal Moves 
+
+#
